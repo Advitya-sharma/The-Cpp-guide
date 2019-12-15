@@ -49,4 +49,12 @@ int main()
         std::cout << *rvec_it << std::endl;
         rvec_it++;
     }
+
+    // example 3 : const_iterator
+
+    std::cout << "-- Const  iterator--" << std::endl;
+
+    auto cit = vec.cbegin();
+
+    std::cout << *cit << std::endl;
 }
