@@ -1,9 +1,7 @@
 #include <iostream>
 #include <iterator>
 #include <algorithm>
-#include <map>
 #include <vector>
-#include <set>
 
 // what are iterators ?
 // Iterators are objects that work as pointers
