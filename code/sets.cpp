@@ -29,6 +29,10 @@ int main()
 
     s.empty();
 
+    //inserting an element
+    s.insert(10);
+    //returns std::pair
+
     //multi_set
 
     //defined in #include<set>
